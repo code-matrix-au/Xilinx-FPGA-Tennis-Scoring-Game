@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2019.1 (64-bit)
+# SW Build 2552052 on Fri May 24 14:49:42 MDT 2019
+# IP Build 2548770 on Fri May 24 18:01:18 MDT 2019
+# Start of session at: Sun Nov  7 22:02:36 2021
+# Process ID: 17064
+# Current directory: C:/Users/ASHWIN-PC/Tennis Scoring/Tennis Scoring.runs/impl_1
+# Command line: vivado.exe -log scoreboard.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source scoreboard.tcl -notrace
+# Log file: C:/Users/ASHWIN-PC/Tennis Scoring/Tennis Scoring.runs/impl_1/scoreboard.vdi
+# Journal file: C:/Users/ASHWIN-PC/Tennis Scoring/Tennis Scoring.runs/impl_1\vivado.jou
+#-----------------------------------------------------------
+source scoreboard.tcl -notrace
